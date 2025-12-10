@@ -1,7 +1,7 @@
 ### Olá, me chamo Dherik! 👋
 
-Formado no curso **Técnico em Informática no IFRN** (Canguaretama).
-Atualmente, estou focado em desenvolver minhas habilidades em **Front-end** e **Back-end**, transformando design e lógica em interfaces funcionais.
+Formado em **Técnico em Informática no IFRN** (Canguaretama).
+Atualmente, estou focado em desenvolver minhas habilidades em **Front-end**, transformando design e lógica em interfaces funcionais.
 
 - 🔭 Estou estudando: **React e aprofundando em JavaScript**
 - 🎓 Formação: Técnico Integrado em Informática (IFRN)
@@ -27,6 +27,8 @@ Aqui estão as tecnologias que já tive contato e estou aprimorando:
 
 ![Estatísticas do Dherik](https://github-readme-stats.vercel.app/api?username=devdherik&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 ![Linguagens do Dherik](https://github-readme-stats.vercel.app/api/top-langs/?username=devdherik&layout=compact&theme=dracula)
+
+---
 
 ### 📫 Vamos nos conectar?
 
