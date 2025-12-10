@@ -1,12 +1,4 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25,30&height=300&section=header&text=Dherik%20Domingos&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=IFRN%20Student%20%7C%20Front-end%20Dev&descAlignY=55&descAlign=50)
-
-<div align="center">
-
-
-  <br>
-
-  <img src="https://media.giphy.com/media/L1R1TVI9svkQQ/giphy.gif" width="500">
-
   <br><br>
 
   ### 🚀 O que eu faço?
