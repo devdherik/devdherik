@@ -35,10 +35,10 @@ Aqui estão as tecnologias que já tive contato e estou aprimorando:
 ### 📫 Vamos nos conectar?
 
 <div align="left">
-  <a href="[LINK_DO_SEU_LINKEDIN](https://www.linkedin.com/in/dherik-domingos-1b2218318/)" target="_blank">
+  <a href="https://www.linkedin.com/in/dherik-domingos-1b2218318/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
-  <a href="[LINK_DO_SEU_INSTAGRAM](https://www.instagram.com/dherikdomingos)" target="_blank">
+  <a href="https://www.instagram.com/dherikdomingos" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
   <a href="mailto:@dherikdomingos@gmail.com" target="_blank">
