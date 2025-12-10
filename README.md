@@ -23,10 +23,12 @@ Aqui estão as tecnologias que já tive contato e estou aprimorando:
 
 ---
 
-### 📊 Minhas Estatísticas
+<h3 align="left">📊 Minhas Estatísticas</h3>
 
-![Estatísticas do Dherik](https://github-readme-stats.vercel.app/api?username=devdherik&theme=dracula&show_icons=true&hide_border=true)
-![Linguagens do Dherik](https://github-readme-stats.vercel.app/api/top-langs/?username=devdherik&layout=compact&theme=dracula&hide_border=true)
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=devdherik&show_icons=true&theme=dracula&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdherik&layout=compact&theme=dracula&hide_border=true" height="150" alt="languages graph" />
+</div>
 
 ### 📫 Vamos nos conectar?
 
