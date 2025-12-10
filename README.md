@@ -23,15 +23,8 @@ Aqui estão as tecnologias que já tive contato e estou aprimorando:
 
 ---
 
-### 🔥 Minha Frequência (Streak)
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devdherik&theme=dracula&hide_border=true" alt="Streak do Dherik" />
-</div>
-
-### 👁️ Visitantes
-<div align="center">
-  <img src="https://profile-counter.glitch.me/devdherik/count.svg" alt="Visitantes" />
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGFxNnB2aHM4aWpkamJpZmh6ZnB4bGJ6Z3Z4Z3Z4Z3Z4Z3Z4Z3Z4Z3Z4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
 </div>
 
 ### 📫 Vamos nos conectar?
