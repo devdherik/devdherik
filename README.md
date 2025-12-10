@@ -23,9 +23,8 @@ Aqui estão as tecnologias que já tive contato e estou aprimorando:
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=devdherik&theme=dracula&hide_border=true" alt="Streak do Dherik" />
-</div>
+![Profile views](https://komarev.com/ghpvc/?username=devdherik)
+
 
 
 ### 📫 Vamos nos conectar?
