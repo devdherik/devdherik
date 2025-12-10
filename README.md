@@ -22,10 +22,13 @@ Aqui estão as tecnologias que já tive contato e estou aprimorando:
 </div>
 
 ---
+<div align="center">
+  <img src="./assets/streak.svg" alt="Streak do Dherik" />
+</div>
 
-![Profile views](https://komarev.com/ghpvc/?username=devdherik)
-
-
+<div align="center">
+  <img src="./assets/visitors.svg" alt="Visitantes" />
+</div>
 
 ### 📫 Vamos nos conectar?
 
