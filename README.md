@@ -1,95 +1,54 @@
-<!-- =========================
-     README - Dherik (GitHub)
-     Copy & paste this file into your repo as README.md
-   ========================= -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25,30&height=300&section=header&text=Dherik%20Domingos&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=IFRN%20Student%20%7C%20Front-end%20Dev&descAlignY=55&descAlign=50)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" style="vertical-align:middle" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" style="vertical-align:middle" />
-  &nbsp;
-  <strong style="font-size:20px">Dherik Domingos — Front-end Developer in progress</strong>
-</p>
+<div align="center">
 
----
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=33CCFF&center=true&vCenter=true&width=435&lines=Transformando+caf%C3%A9+em+c%C3%B3digo;Apaixonado+por+React+e+CSS;Estudante+do+IFRN" alt="Typing SVG" />
+  </a>
 
-<h1 align="center">💫 Olá — eu sou o Dherik! 👋</h1>
+  <br>
 
-<p align="center">
-  <em>Formado em Técnico em Informática (IFRN — Canguaretama). Apaixonado por design e lógica; foco atual em Front-end e JavaScript/React.</em>
-</p>
+  <img src="https://media.giphy.com/media/L1R1TVI9svkQQ/giphy.gif" width="500">
 
-<p align="center">
-  <a href="#sobre-mim">Sobre</a> •
-  <a href="#tecnologias">Tecnologias</a> •
-  <a href="#projetos">Projetos</a> •
-  <a href="#estatisticas">Estatísticas</a> •
-  <a href="#contato">Contato</a>
-</p>
+  <br><br>
 
----
+  ### 🚀 O que eu faço?
+  
+  <p align="center">
+    Sou estudante do <b>IFRN (Canguaretama)</b> e estou naquela fase mágica (e estressante) <br>
+    de descobrir como conectar o Back-end (Python/Django) com um Front-end bonito.
+  </p>
 
-## 🔎 Sobre mim
-- 🔭 Estudando: **React** e me aprofundando em **JavaScript**  
-- 🎓 Formação: Técnico Integrado em Informática (IFRN)  
-- ⚡ Curiosidade: curto Python pela lógica, mas me identifico mais com o visual do CSS  
-- 🎯 Objetivo: construir interfaces limpas, responsivas e com boa experiência de uso
+  <br>
 
----
+  ### 🛠️ Minha Caixa de Ferramentas
+  
+  <div style="display: inline_block">
+    <img align="center" alt="HTML5" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+    <img align="center" alt="CSS3" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+    <img align="center" alt="Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img align="center" alt="React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+    <img align="center" alt="Django" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+    <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  </div>
 
-## 🛠 Tecnologias & Ferramentas
-<p align="center">
-  <img alt="HTML5" height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-  <img alt="CSS3"  height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-  <img alt="JavaScript" height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
-  <img alt="React" height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
-  <img alt="Python" height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-  <img alt="Django" height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" />
-  <img alt="Git" height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
-</p>
+  <br><br>
 
-> Dica: se algum ícone não carregar no GitHub, você pode hospedá-lo localmente em `/assets` e referenciar como `./assets/<nome>.svg` (maior confiabilidade).
+  ### 📫 Contatos
+  
+  <a href="SEU_LINKEDIN_AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a> 
+  <a href="SEU_INSTAGRAM_AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
+  </a>
+  <a href="mailto:SEU_EMAIL_AQUI">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+  </a>
 
----
+  <br><br>
+  
+  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25,30&height=100&section=footer)
 
-## ✨ Projetos em destaque
-> _Pequenos resumos e links para os repos — substitua/adicione os seus projetos reais._
-
-- **Projeto A — Portfólio**  
-  Descrição curta: portfólio responsivo feito em React com roteamento e animações leves.  
-  Link: `https://github.com/devdherik/portfolio` (adicione o repo)
-
-- **Projeto B — ToDo App**  
-  Descrição curta: app de tarefas com CRUD e persistência local.  
-  Link: `https://github.com/devdherik/todo` (adicione o repo)
-
----
-
-## 📈 Estatísticas & Widgets
-
-<p align="center">
-  <!-- GitHub streak / activity (fallback: vercel) -->
-  <img alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=devdherik&theme=react&hide_border=true" />
-  &nbsp;&nbsp;
-  <!-- GitHub profile views / visitor counter (deno alternative) -->
-  <img alt="visitors" src="https://profile-counter.deno.dev/devdherik/count.svg" />
-</p>
-
-<p align="center">
-  <!-- GitHub top languages & stats -->
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=devdherik&show_icons=true&theme=radical&count_private=true" />
-  &nbsp;
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdherik&layout=compact&theme=radical" />
-</p>
-
-> Observação: se alguma dessas imagens aparecer quebrada, troque o endpoint (ex.: `herokuapp` → `vercel.app`) ou hospede o SVG localmente.
-
----
-
-## 🎨 Visual / GIF (opcional)
-Se quiser um banner/GIF no topo, faça o upload do GIF para a pasta `assets/` do repo e insira assim:
-
-```markdown
-<p align="center">
-  <img src="./assets/banner.gif" width="700" alt="Banner animado">
-</p>
+</div>
