@@ -4,7 +4,6 @@
 Formado no curso **Técnico em Informática no IFRN** (Canguaretama).
 Atualmente, estou focado em desenvolver minhas habilidades em **Front-end**e **Back-end**, transformando design e lógica em interfaces funcionais.
 
-- 🔭 Estou estudando: **React e aprofundando em JavaScript**
 - 🎓 Formação: Técnico Integrado em Informática (IFRN)
 - ⚡ Fato curioso: Adoro a lógica do Python, mas meu coração bate mais forte pelo visual do CSS.
 
