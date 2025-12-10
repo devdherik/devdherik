@@ -25,8 +25,8 @@ Aqui estão as tecnologias que já tive contato e estou aprimorando:
 
 ### 📊 Minhas Estatísticas
 
-![Estatísticas do Dherik](https://github-readme-stats.vercel.app/api?username=devdherik&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
-![Linguagens do Dherik](https://github-readme-stats.vercel.app/api/top-langs/?username=devdherik&layout=compact&theme=dracula)
+![Estatísticas do Dherik](https://github-readme-stats.vercel.app/api?username=devdherik&theme=dracula&show_icons=true&hide_border=true)
+![Linguagens do Dherik](https://github-readme-stats.vercel.app/api/top-langs/?username=devdherik&layout=compact&theme=dracula&hide_border=true)
 
 ### 📫 Vamos nos conectar?
 
