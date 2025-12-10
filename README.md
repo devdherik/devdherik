@@ -23,11 +23,15 @@ Aqui estão as tecnologias que já tive contato e estou aprimorando:
 
 ---
 
-<h3 align="left">📊 Minhas Estatísticas</h3>
+### 🔥 Minha Frequência (Streak)
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=devdherik&show_icons=true&theme=dracula&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdherik&layout=compact&theme=dracula&hide_border=true" height="150" alt="languages graph" />
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devdherik&theme=dracula&hide_border=true" alt="Streak do Dherik" />
+</div>
+
+### 👁️ Visitantes
+<div align="center">
+  <img src="https://profile-counter.glitch.me/devdherik/count.svg" alt="Visitantes" />
 </div>
 
 ### 📫 Vamos nos conectar?
