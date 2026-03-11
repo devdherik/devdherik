@@ -1,11 +1,10 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25,20&height=280&section=header&text=Dherik%20Domingos&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=IFRN%20Student%20%7C%20Front-end%20Dev&descAlignY=55&descAlign=50)
 ### ⚡ Sobre Mim
 
-Formado no curso **Técnico em Informática no IFRN** (Canguaretama).
+Formado no curso **Técnico em Informática no IFRN** (Canguaretama). Granduando em **Tecnologia da Informação na UFRN**.
 Atualmente, estou focado em desenvolver minhas habilidades em **Front-end**e **Back-end**, transformando design e lógica em interfaces funcionais.
 
 - 🎓 Formação: Técnico Integrado em Informática (IFRN)
-- ⚡ Fato curioso: Adoro a lógica do Python, mas meu coração bate mais forte pelo visual do CSS.
 
 ---
 
