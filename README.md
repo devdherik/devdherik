@@ -2,9 +2,7 @@
 ### ⚡ Sobre Mim
 
 Formado no curso **Técnico em Informática no IFRN** (Canguaretama). Granduando em **Tecnologia da Informação na UFRN**.
-Atualmente, estou focado em desenvolver minhas habilidades em **Front-end**e **Back-end**, transformando design e lógica em interfaces funcionais.
-
-- 🎓 Formação: Técnico Integrado em Informática (IFRN)
+Atualmente, focado em desenvolver habilidades em **Front-end**e **Back-end**, transformando design e lógica em interfaces funcionais.
 
 ---
 
