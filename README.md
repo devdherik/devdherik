@@ -28,9 +28,6 @@ Atualmente, focado em desenvolver habilidades em **Front-end** e **Back-end**, t
   <a href="https://www.instagram.com/dherikdomingos" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
   </a>
-
-  <br><br>
-  
   ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25,30&height=100&section=footer)
 
 </div>
