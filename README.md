@@ -1,4 +1,3 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25,20&height=280&section=header&text=Dherik%20Domingos&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=UFRN%20Student%20%7C%20Full-Stack%20Dev&descAlignY=55&descAlign=50)
 ### ⚡ Sobre Mim
 
 Formado no curso **Técnico em Informática no IFRN** (Canguaretama). Granduando em **Tecnologia da Informação na UFRN**.
